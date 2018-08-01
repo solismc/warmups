@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "deploy": "surge ./public --domain warmups.manuelsolis.surge.sh",
+    "deploy": "surge ./public --domain week-2.manuelsolis.surge.sh",
     "start": "browser-sync start --server \"public\" --files \"public\""
   },
   "dependencies": {
